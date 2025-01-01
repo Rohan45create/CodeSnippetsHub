@@ -1,2 +1,15 @@
 # CodeSnippetsHub
-A collection of small, reusable code snippets designed to save time and effort when working on various projects. It includes examples for multiple programming languages.
+
+**CodeSnippetsHub** is a curated collection of reusable code snippets for various programming languages. These snippets aim to simplify coding tasks and boost productivity.
+
+## Languages Covered
+- JavaScript
+- Python
+- Java
+- HTML & CSS
+- C++
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rohan45create/CodeSnippetsHub.git
